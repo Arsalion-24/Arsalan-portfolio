@@ -1,0 +1,12 @@
+nohup: ignoring input
+
+> vite-template@0.0.0 dev
+> vite
+
+Port 5173 is in use, trying another one...
+
+  VITE v6.3.5  ready in 830 ms
+
+  ➜  Local:   http://localhost:5174/
+  ➜  Network: use --host to expose
+2:03:19 PM [vite] (client) page reload netlify.toml
